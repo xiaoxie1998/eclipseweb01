@@ -3,8 +3,11 @@ package git01;
 public class Demo1 {
 
 	public static void main(String[] args) {
-		System.out.println("git°æ±¾¿ØÖÆÆ÷");
-		System.out.println("git°æ±¾¿ØÖÆÆ÷");
+		System.out.println("gitè¿œç¨‹ç‰ˆæœ¬åº“");
+		System.out.println("gitè¿œç¨‹ç‰ˆæœ¬åº“");
+		System.out.println("gitè¿œç¨‹ç‰ˆæœ¬åº“");
+		System.out.println("gitè¿œç¨‹ç‰ˆæœ¬åº“");
+		System.out.println("gitè¿œç¨‹ç‰ˆæœ¬åº“");
 
 	}
 
